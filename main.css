@@ -1,0 +1,22 @@
+.main{
+    float: center;
+    border-style: solid;
+    border: 2px;
+    background-color: skyblue;
+    border-radius: 2ch; 
+    align-items: center;
+    text-align: center;
+    }
+
+.box{
+    margin-top: 20px;
+    }
+
+h1{
+    nav-left: auto;
+}
+
+.button{
+    background-color: blue;
+
+}
